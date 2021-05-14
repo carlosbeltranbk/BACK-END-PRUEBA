@@ -1,8 +1,5 @@
 # BACK-END-PRUEBA
 Proyecto para demostración de habilidades de desarollo en BACK-END
-
-# PRUEBA-TECNICA-DESARROLLADOR-BACK-END-JR
- Proyecto para demostración de habilidades de desarollo en BACK-END
  
  Para la realización del presente proyecto, se implementó el framework laravel por parte
  del desarrollo del BACKEND y Angular para el consumo del API por parte del desarrollo
